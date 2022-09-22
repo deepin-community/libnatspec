@@ -1,0 +1,11 @@
+libnatspec (0.3.1-1+back) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Andrew O. Shadoura <bugzilla@tut.by>  Mon, 06 Jun 2022 15:22:43 +0800
+
+libnatspec (0.3.1-1+back) unstable; urgency=low
+
+  * ['Autobuild release-candidate: 03440b3d88aa883cd3a565d18f648a4a91b896c3']
+
+ -- shuttle <shuttle@deepin.com>  Wed, 11 Sep 2019 13:12:50 +0000
