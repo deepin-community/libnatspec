@@ -1,12 +1,8 @@
-libnatspec (0.3.1-2+back) unstable; urgency=medium
+libnatspec (0.3.1-1+back) UNRELEASED; urgency=medium
 
-  [ Andrew O. Shadoura ]
   * update
 
-  [ tunaichao ]
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 16:25:13 +0800
+ -- Andrew O. Shadoura <bugzilla@tut.by>  Mon, 06 Jun 2022 15:22:43 +0800
 
 libnatspec (0.3.1-1+back) unstable; urgency=low
 
